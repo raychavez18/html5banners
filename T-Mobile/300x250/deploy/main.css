@@ -1,0 +1,116 @@
+/* STYLES */
+body{
+    margin: 0;
+}
+img, div{
+    top: 0px;
+    position: absolute;
+    display: block;
+}
+#container{
+    background-color: #e7e7e5;
+    height: 250px;
+    overflow: hidden;
+    width: 300px;
+}
+#bg{
+    background-color: #EBF7FE;
+    height: 125px;
+    width: 300px;
+}
+#outline{
+    z-index: 5;
+    left: 0px;
+    top: 0px;
+    width: 298px;
+    height: 248px;
+    border: black solid 1px;
+}
+#click-area{
+    z-index: 6;
+    width: 300px;
+    height: 250px;
+    cursor: pointer;
+}
+/* SPRITES */
+.sprite {
+    background-image: url(sprite.png);
+    opacity: 0;
+}
+
+.cta {
+    width: 89px;
+    height: 26px;
+    background-position: -1px -1px;
+}
+
+.header1 {
+    width: 262px;
+    height: 50px;
+    background-position: -1px -29px;
+}
+
+.header2 {
+    width: 154px;
+    height: 50px;
+    background-position: -1px -81px;
+}
+
+.header3 {
+    width: 227px;
+    height: 50px;
+    background-position: -1px -133px;
+}
+
+.header4 {
+    width: 183px;
+    height: 49px;
+    background-position: -1px -185px;
+}
+
+.header5 {
+    width: 227px;
+    height: 50px;
+    background-position: -1px -236px;
+}
+
+.legal {
+    width: 271px;
+    height: 55px;
+    background-position: -1px -288px;
+}
+
+.logo {
+    width: 103px;
+    height: 23px;
+    background-position: -1px -345px;
+}
+
+.sub {
+    width: 207px;
+    height: 30px;
+    background-position: -1px -370px;
+}
+
+/* POSITIONING */
+.cta{
+    top: 209px;
+    right: 15px;
+}
+.headers{
+    top: 18px;
+    left: 15px;
+}
+.legal{
+    top: 138px;
+    left: 15px;
+}
+.logo{
+    top: 211px;
+    left: 15px;
+    opacity: 1;
+}
+.sub{
+    top: 75px;
+    left: 15px;
+}

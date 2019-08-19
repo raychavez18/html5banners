@@ -1,0 +1,60 @@
+
+.cta {
+    width: 89px;
+    height: 26px;
+    background-position: -1px -1px;
+}
+
+.headline1 {
+    width: 93px;
+    height: 50px;
+    background-position: -1px -29px;
+}
+
+.headline2 {
+    width: 93px;
+    height: 131px;
+    background-position: -1px -81px;
+}
+
+.headline3 {
+    width: 113px;
+    height: 76px;
+    background-position: -1px -214px;
+}
+
+.headline4 {
+    width: 112px;
+    height: 104px;
+    background-position: -1px -292px;
+}
+
+.headline5 {
+    width: 113px;
+    height: 103px;
+    background-position: -1px -398px;
+}
+
+.headline6 {
+    width: 112px;
+    height: 104px;
+    background-position: -1px -503px;
+}
+
+.legal {
+    width: 122px;
+    height: 132px;
+    background-position: -1px -609px;
+}
+
+.logo {
+    width: 89px;
+    height: 20px;
+    background-position: -1px -743px;
+}
+
+.sub {
+    width: 125px;
+    height: 46px;
+    background-position: -1px -765px;
+}
